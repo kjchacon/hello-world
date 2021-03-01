@@ -1,6 +1,6 @@
 /*****
- * Edit this line to have your name.
- ******/
+Kyler Chacon
+******/
 public class GitDemo {
     
     private double previousNumber;
