@@ -14,7 +14,8 @@ public class GitDemo {
     *****/
     public double addNumber(double num) {
         System.out.print("Add num to previousNumber");
-        return 0;
+        ans = num + previousNumber;
+        return ans;
     }
     
     /*****
@@ -48,4 +49,5 @@ public class GitDemo {
         
         return factorialNumber;
     }
+
 }
