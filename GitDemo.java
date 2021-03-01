@@ -14,6 +14,7 @@ public class GitDemo {
     *****/
     public double addNumber(double num) {
         System.out.print("Add num to previousNumber");
+        double ans;
         ans = num + previousNumber;
         return ans;
     }
